@@ -1,0 +1,43 @@
+body{
+	font-family: 'Raleway Dots', cursive;
+	font-weight: 400; 
+}
+input{
+	position:absolute; top:2px; 
+	right:5px
+}
+body{
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+}
+#info{
+	font-family: 'Cinzel Decorative', cursive;
+}
+#side{
+	position:absolute;
+	float:right;
+    width:200px;
+    right:0px;
+    background-color: rgba(32,2,62,0.5);
+    opacity:0.80;
+    height:80%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 3px;
+    border-radius: 2px;
+    padding:19px 17px 17px 15px;
+    color:white;
+}
+html, body{
+	height:100%;
+}
+#button1{
+	text-align: right;
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: midnightblue;
+	border-style: none;
+}
